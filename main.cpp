@@ -1,7 +1,7 @@
 #include "sdt.h"
 #include <iostream>
 using namespace std;
-
+//это учебная программа
 int main(){
     int a, b;
     cout << "Enter A and B:";
